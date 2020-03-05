@@ -1,0 +1,24 @@
+{
+  "name": "Ejercicios-Clase",
+  "version": "1.0.0",
+  "description": "Mis ejercicios de clase.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "browser-sync start --server www --files www"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/IsaSanchezTorron/Ejercicios-Clase.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/IsaSanchezTorron/Ejercicios-Clase/issues"
+  },
+  "homepage": "https://github.com/IsaSanchezTorron/Ejercicios-Clase#readme",
+  "devDependencies": {
+    "browser-sync": "^2.26.7"
+  }
+}
